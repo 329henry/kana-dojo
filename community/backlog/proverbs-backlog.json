@@ -1356,7 +1356,9 @@
     "english": "After the rain, the ground hardens",
     "meaning": "Hard times build resilience",
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "Luca12341234",
+    "completedPR": 12103
   },
   {
     "id": 152,
